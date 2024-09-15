@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "image-tracking-3d-animation",
+"productVersion": "0.1",
+"dataUrl": "86baf56716c89708db56da8b850003cb.unityweb",
+"wasmCodeUrl": "f5e643ef9c5d694577f641deccb021b6.unityweb",
+"wasmFrameworkUrl": "1b45e4d9da6a56c622cf096ccb0fec92.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.31f1"
+}
